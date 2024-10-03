@@ -18,4 +18,4 @@ Lista Numerada
    _italica texto_
    ***_italica texto negrita_***
 
-   ¡(imagen programacion)!https://pbs.twimg.com/media/EWxyyXcXYAE3iZc.jpg
+   ¡(imagen programacion)https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fedgareraz%2Fstatus%2F1255504613077397507&psig=AOvVaw2CH2KaSiFEIgOlsy1Jh27k&ust=1728064717795000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCd-s_k8ogDFQAAAAAdAAAAABAE 
