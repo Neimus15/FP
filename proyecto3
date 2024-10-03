@@ -1,0 +1,40 @@
+// See https://aka.ms/new-console-template for more information
+using System.Collections.Specialized;
+using System.Runtime.CompilerServices;
+
+Console.WriteLine("Hello, World!");
+// enteros.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
+//
+
+#include <iostream>
+#include <limits>
+#include <iomanip>
+#include <locale>
+using namespace std;
+
+int main()
+{
+    // Manejo de punto decimal y separador de miles
+    locale loc("");
+    cout.imbue(loc);
+    cout << fixed;//punto fijo
+    Cout << setprecicion(2);
+
+    // Declarar e imprimir string
+    string texto0 = "hola mundo!";
+    CollectionsUtil << texto0 << endl;
+
+    //unir dos textos en uno
+    string primer texto = "hola";
+    string segundo texto = "mundo!";
+    string textounido = primerTexto + segundoTexto;
+    CollectionsUtil << textounido << endl;
+
+    // Introducir un valor en una variable de texto (string) usando teclado
+    string nombre;
+    Cout << "introduce tu nombre:";
+    Cin >> nombre;
+    Cout << "hola" << nombre << "!" << endl;
+
+
+    return 0;
