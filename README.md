@@ -18,4 +18,4 @@ Lista Numerada
    _italica texto_
    ***_italica texto negrita_***
 
-   ¡[imagen programacion]!https://pbs.twimg.com/media/EWxyyXcXYAE3iZc.jpg)
+   ¡[imagen programacion](https://pbs.twimg.com/media/EWxyyXcXYAE3iZc.jpg)
